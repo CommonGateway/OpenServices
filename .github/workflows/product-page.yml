@@ -18,10 +18,10 @@ jobs:
         with:
           github_repository_url: https://github.com/CommonGateway/OpenServices
           github_api_base_url: https://api.github.com/repos/CommonGateway/OpenServices/contents
-          navbar_content: 'https://raw.githubusercontent.com/CommonGateway/OpenServices/main/docs/NavbarContent.json'
+          navbar_content: 'https://raw.githubusercontent.com/CommonGateway/OpenServices/master/docs/NavbarContent.json'
           footer_show_logo: true
           footer_logo_href: "https://opencatalogi.nl/"
-          footer_content: 'https://raw.githubusercontent.com/CommonGateway/OpenServices/main/docs/FooterContent.json'
+          footer_content: 'https://raw.githubusercontent.com/CommonGateway/OpenServices/master/docs/FooterContent.json'
           footer_content_header: "heading-3"
           jumbotron_title: "OpenServices.app"
           jumbotron_subtitle: "Gemakkelijk maken, beheren en hosten van microservices"
