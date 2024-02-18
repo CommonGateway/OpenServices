@@ -1,6 +1,4 @@
-# OpenServices
-
-## Over OpenServices
+# Over Open Services
 
 OpenServices, gebaseerd op het Symfony framework, biedt een robuuste oplossing voor het hosten en beheren van (micro)services binnen overheidsorganisaties. Met een 'haven first' benadering faciliteert OpenServices een gestandaardiseerd platform voor de implementatie, integratie en het beheer van diverse microservices zoals OpenWoo, Waardepapier en Notificatie Service. Dit framework stelt overheidsinstanties in staat om efficiënter en effectiever te werken door de naadloze koppeling van diensten en het delen van data.
 
