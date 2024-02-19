@@ -32,12 +32,12 @@ Na installatie kunt u beginnen met het configureren en deployen van uw microserv
 
 ## Bijdragen
 
-Wij verwelkomen bijdragen van de community! Als u wilt bijdragen aan OpenServices, gelieve ons te contacteren via info@conduction.nl of een pull request in te dienen via onze GitHub repository.
+Bijdragen aan OpenRegisters zijn Open Services! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md)  voor meer informatie over hoe u kunt bijdragen.
 
 ## Licentie
 
-OpenServices is uitgegeven onder een EUPL 1.2 licentie. Zie het (`LICENSE.md`)[`LICENSE.md`] bestand in onze GitHub repository voor meer details.
+Open Services is uitgegeven onder een EUPL 1.2 licentie. Zie het [LICENSE.md](LICENSE.md) bestand in onze GitHub repository voor meer details.
 
 ## Contact
 
-Voor meer informatie over OpenServices en hoe u het in uw organisatie kunt implementeren, neem contact met ons op via info@conduction.nl.
+Voor meer informatie over Open Services en hoe u het in uw organisatie kunt implementeren, neem contact met ons op via [info@conduction.nl](mailto:info@conduction.nl).
