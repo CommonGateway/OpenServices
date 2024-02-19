@@ -40,7 +40,7 @@ Door bij te dragen aan OpenServices, gaat u ermee akkoord dat uw bijdragen worde
 
 ## Vragen?
 
-Heeft u vragen of feedback, neem dan contact op via info@conduction.nl.
+Heeft u vragen of feedback, neem dan contact op via [info@conduction.nl](mailto:info@conduction.nl).
 
 Bedankt voor uw interesse in het verbeteren van OpenServices!
 
