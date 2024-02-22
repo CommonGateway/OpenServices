@@ -1,6 +1,6 @@
-# Over Open Services
+# Over OpenServices
 
-OpenServices, gebaseerd op het Symfony framework, biedt een robuuste oplossing voor het hosten en beheren van (micro)services binnen overheidsorganisaties. Met een 'haven first' benadering faciliteert OpenServices een gestandaardiseerd platform voor de implementatie, integratie en het beheer van diverse microservices zoals OpenWoo, Waardepapier en Notificatie Service. Dit framework stelt overheidsinstanties in staat om efficiënter en effectiever te werken door de naadloze koppeling van diensten en het delen van data.
+OpenServices, gebaseerd op het Symfony framework, biedt een krachtige oplossing voor het hosten en beheren van (micro)services binnen overheidsorganisaties. Met een 'Haven first' benadering faciliteert OpenServices een gestandaardiseerd platform voor de implementatie, integratie en het beheer van diverse microservices zoals OpenWoo, Waardepapier en Notificatie Service. Dit framework stelt overheidsinstanties in staat om efficiënter en effectiever te werken door de naadloze koppeling van diensten en het delen van data.
 
 ## Kernfunctionaliteiten
 
@@ -12,13 +12,16 @@ OpenServices, gebaseerd op het Symfony framework, biedt een robuuste oplossing v
 
 ## Installatie
 
-### Locale Installatie
+### Lokale Installatie
+
 Vereisten:
+
 - PHP 7.4 of hoger
 - Symfony 5 of hoger
 - Docker (voor containerisatie)
 
 Stap-voor-stap installatiegids:
+
 1. Clone het OpenServices repository: `git clone https://github.com/ConductionNL/OpenServices.git`
 2. Installeer afhankelijkheden: `composer install`
 3. Configureer de .env bestanden met uw database en andere service-specifieke instellingen.
@@ -32,11 +35,11 @@ Na installatie kunt u beginnen met het configureren en deployen van uw microserv
 
 ## Bijdragen
 
-Bijdragen aan OpenRegisters zijn Open Services! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md)  voor meer informatie over hoe u kunt bijdragen.
+Bijdragen aan OpenRegisters? Graag! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md) voor meer informatie over hoe u kunt bijdragen.
 
 ## Licentie
 
-Open Services is uitgegeven onder een EUPL 1.2 licentie. Zie het [LICENSE.md](LICENSE.md) bestand in onze GitHub repository voor meer details.
+OpenServices is uitgegeven onder een EUPL 1.2 licentie. Zie het [LICENSE.md](LICENSE.md) bestand in onze GitHub repository voor meer details.
 
 ## Contact
 
