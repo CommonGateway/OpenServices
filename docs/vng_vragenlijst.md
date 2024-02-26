@@ -33,23 +33,46 @@ OpenServices biedt een 'Haven-first' benadering voor het hosten en beheren van m
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Gemeenten zijn indirect aangesloten via o.a. de Woo-service en Notificatie Service.
+Rotterdam
+Gouda
+Noordwijk
+Tubbergen
+Epe
+Dinkelland
+Leiden
+Roermond
+Assen
+Hilversum
+Haarlemermeer
+Enschede
+Eindhoven
+Hardewijk
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Gemeenten maken indirect gebruik via o.a. de Woo-service en Notificatie Service.
+Rotterdam
+Buren
+Epe
+Roozendaal
+Gouda
+Noordwijk
+Zutphen
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction
+Conduction B.V
+Yard
+Acato
+Sim Groep
+Xxllnc
 
 ## 11 Wat is de startdatum van het initiatief
 
-01-02-2024
+01-06-2023
 
-## 12 Wanneer wordt verwacht dat het initiatief ready for use is? Of sinds wanneer is het initiatief ready for use?
+## 12 Wanneer wordt verwacht dat het initiatief ready for use  is? Of sinds wanneer is het initiatief ready for use? (Let er op dat dit na de startdatum is)
 
-01-03-2024
+01-11-2023
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
