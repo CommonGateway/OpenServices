@@ -2,83 +2,64 @@
 
 ## 1 Wat is de naam van het initiatief dat je wilt aanmelden?
 
-OpenServices
+Open Services
 
 ## 2 Wat voor type product is het initiatief?
 
-* Toepassing (bruikbare oplossing)
+- Toepassing (bruikbare oplossing)
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-OpenServices omvat een gestandaardiseerd platform voor de implementatie, integratie, en het beheer van diverse microservices zoals OpenWoo, Waardepapier, en Notificatie Service.
+Open Services integreert diverse overheidsdiensten via een uniforme API-laag, waardoor een gestroomlijnde toegang tot en interactie met verschillende overheidsdiensten mogelijk wordt.
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
-Ja, OpenServices is ontworpen om parallel te functioneren naast bestaande systemen en biedt een aanvullende laag voor servicebeheer en integratie.
+Ja, Open Services is ontworpen om naadloos samen te werken met bestaande systemen, waardoor het een aanvullende laag biedt die de toegankelijkheid en interoperabiliteit tussen overheidsdiensten verbetert.
 
-## 5 Indien een toepassing, pitch je product. Waarom zouden anderen moeten mee doen met de ontwikkeling of waarom zouden andere gemeenten jouw product moeten implementeren?
+## 5 Indien een toepassing, pitch je product
 
-OpenServices biedt een 'Haven-first' benadering voor het hosten en beheren van microservices, essentieel voor de Common Ground visie. Het faciliteert een snelle, efficiënte en schaalbare implementatie en integratie van diensten, waardoor overheidsinstanties hun dienstverlening kunnen verbeteren en moderniseren.
+Open Services revolutioneert hoe overheidsinstanties microservices hosten, beheren en delen in lijn met Common Ground. Dit platform faciliteert snelle, veilige ontwikkeling en schaalbaarheid van diensten, zoals OpenWoo, door een 'Haven first'-benadering. Het kiezen voor Open Services betekent een naadloze, kostenefficiënte infrastructuur voor geavanceerde publieke dienstverlening, plaatsend uw organisatie aan de spits van digitale overheidstransformatie.
 
 ## 6 In welk domein past het initiatief?
 
-* Overkoepelend/ randvoorwaardelijk voor CG
+- Overkoepelend/ randvoorwaardelijk voor CG
 
 ## 7 Welk type organisaties zijn betrokken?
 
-* Gemeenten
-* Leveranciers
-* VNG
-* Ketenpartners
+- Gemeenten
+- Leveranciers
+- VNG
+- Ketenpartners
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam
-Gouda
-Noordwijk
-Tubbergen
-Epe
-Dinkelland
-Leiden
-Roermond
-Assen
-Hilversum
-Haarlemermeer
-Enschede
-Eindhoven
-Hardewijk
+Vermeld specifieke gemeenten die reeds zijn aangesloten of interesse hebben getoond.
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Rotterdam
-Buren
-Epe
-Roozendaal
-Gouda
-Noordwijk
-Zutphen
+Vermeld specifieke gemeenten die actief gebruikmaken van Open Services.
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction B.V
-Yard
-Acato
-Sim Groep
-Xxllnc
+- Conduction B.V.
+- Yard
+- Acato
+- Sim Groep
+- Xxllnc
 
 ## 11 Wat is de startdatum van het initiatief
 
 01-06-2023
 
-## 12 Wanneer wordt verwacht dat het initiatief ready for use  is? Of sinds wanneer is het initiatief ready for use? (Let er op dat dit na de startdatum is)
+## 12 Wanneer wordt verwacht dat het initiatief ready for use is? Of sinds wanneer is het initiatief ready for use?
 
 01-11-2023
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
-De contactorganisatie is Conduction.
+Conduction B.V.
 
-## 14 Wie is de PO (product owner) van dit initiatief? (en dus contactpersoon)
+## 14 Wie is de PO (product owner) van dit initiatief?
 
 Ruben van der Linde
 
@@ -88,59 +69,54 @@ Ruben van der Linde
 
 ## 16 Op welke website kunnen we meer info over het product vinden?
 
-<https://openservices.online/>
+[https://openservices.online/](https://openservices.online/)
 
 ## 17 Wat is een korte omschrijving van het product?
 
-OpenServices is een oplossing voor het hosten en beheren van microservices binnen overheidsorganisaties, gericht op snelheid, efficiëntie, en schaalbaarheid.
+Gemakkelijk maken, beheren, hosten en uitwisselen van microservices door en tussen overheidsorganisaties
 
 ## 18 Hoeverre draagt het initiatief volgens jou bij aan de wendbaarheid van gemeenten?
 
-* 4
+- 4
 
 ## 19 Geef een korte toelichting op je beoordeling van de vorige vraag
 
-OpenServices vergroot de wendbaarheid van gemeenten door het bieden van een flexibel en schaalbaar platform voor de integratie van microservices, wat essentieel is voor snelle aanpassingen en innovatie.
+Door het bieden van gestandaardiseerde toegang tot overheidsdiensten, maakt Open Services het voor gemeenten makkelijker om snel en flexibel in te spelen op veranderende behoeften en omstandigheden.
 
 ## 20 In hoeverre draagt het volgens jou bij aan betere dienstverlening van gemeenten?
 
-* 4
+- 4
 
 ## 21 Geef een korte toelichting op jouw antwoord de vorige vraag
 
-Door de gestandaardiseerde aanpak en het efficiënt beheer van diensten via OpenServices, kunnen gemeenten hun dienstverlening aanzienlijk verbeteren door snellere en meer betrouwbare toegang tot benodigde services.
+Open Services verhoogt de efficiëntie en toegankelijkheid van overheidsdiensten, wat leidt tot een snellere en meer gepersonaliseerde dienstverlening aan burgers.
 
 ## 22 In hoeverre draagt het bij aan regie op gegevens voor inwoners?
 
-* 3
+- 3
 
 ## 23 Geef een korte toelichting op jouw antwoord bij de vorige vraag
 
-Hoewel OpenServices primair is gericht op de achterkant van dienstverlening, draagt het indirect bij aan betere regie op gegevens door de verbeterde integratie en beheer van diensten die uiteindelijk ten goede komen aan de inwoners.
+Hoewel Open Services primair gericht is op het verbeteren van de toegang tot overheidsdiensten, ondersteunt het ook een grotere transparantie en controle voor burgers over hun interacties met de overheid.
 
 ## 24 Waar staat informatie over de planning? Voeg indien mogelijk de link toe
 
-Informatie over de planning van OpenServices is te vinden op de website van Conduction of op de specifieke projectpagina voor OpenServices, die hier niet vermeld is.
+[Deze wordt bijgehouden op de product website](<https://Open> Services.online/)
 
 ## 25 Op welke laag of op welke lagen bevindt dit initiatief zich
 
-* laag 3: integratie /FSC
-* laag 2: toegang tot data/ API's
+- laag 2: toegang tot data/ API's
 
 ## 26 Welke API-standaarden zijn toegepast?
 
-Specifieke API-standaarden toegepast in OpenServices zijn op dit moment niet vermeld.
+API-standaarden gerelateerd aan het Common Ground principe en andere relevante overheidsstandaarden.
 
 ## 27 In welke fase bevindt het initiatief zich?
 
-* Doorontwikkeling en beheer
+- Doorontwikkeling en beheer (stabiel, onderdeel gevestigde orde)
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-1) Het ontwikkelen van een uniforme aanpak voor het beheer van microservices en de integratie van diensten.
-2) Het ontwikkelen van een schaalbaar platform dat kan voldoen aan de eisen van verschillende gemeenten.
-3) Het ontwikkelen van een platform dat voldoet aan de eisen van Common Ground en de AVG.
+Integratie met bestaande systemen en het waarborgen van de veiligheid en privacy van de gegevens waren uitdagingen.
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
-
-Geen verdere vragen op dit moment.
