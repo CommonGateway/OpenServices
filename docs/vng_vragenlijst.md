@@ -105,7 +105,7 @@ Hoewel Open Services primair gericht is op het verbeteren van de toegang tot ove
 
 ## 25 Op welke laag of op welke lagen bevindt dit initiatief zich
 
-- laag 2: toegang tot data/ API's
+- laag 4
 
 ## 26 Welke API-standaarden zijn toegepast?
 
