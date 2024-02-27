@@ -33,11 +33,12 @@ Open Services revolutioneert hoe overheidsinstanties microservices hosten, beher
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Vermeld specifieke gemeenten die reeds zijn aangesloten of interesse hebben getoond.
+Rotterdam Gouda Noordwijk Tubbergen Epe Dinkelland Leiden Roermond Assen Hilversum Haarlemermeer Enschede Eindhoven Hardewijk
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Vermeld specifieke gemeenten die actief gebruikmaken van Open Services.
+Rotterdam, Buren, Gouda, Barendrecht, Albrandswaard, Ridderkerk, Alkmaar, Hoeksche Waard, Sud-West Fryslan, Fryske Marren
+
 
 ## 10 Welke leveranciers zijn betrokken?
 
