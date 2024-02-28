@@ -10,7 +10,10 @@ Open Services
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-Open Services integreert diverse overheidsdiensten via een uniforme API-laag, waardoor een gestroomlijnde toegang tot en interactie met verschillende overheidsdiensten mogelijk wordt.
+- FSC/NLX
+- Symfony
+- API Platform
+- Database(MySQL/Postgres/MsSQL)
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
@@ -33,11 +36,39 @@ Open Services revolutioneert hoe overheidsinstanties microservices hosten, beher
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam Gouda Noordwijk Tubbergen Epe Dinkelland Leiden Roermond Assen Hilversum Haarlemermeer Enschede Eindhoven Hardewijk
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenCatalogi)
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe (Via OpenWoo.app)
+Dinkelland (Via OpenWoo.app)
+Leiden (Via OpenCatalogi)
+Roermond (Via OpenWoo.app)
+Assen (Via OpenWoo.app)
+Hilversum (Via OpenWoo.app)
+Haarlemermeer (Via OpenWoo.app)
+Enschede (Via OpenWoo.app)
+Eindhoven (Via OpenWoo.app)
+Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Rotterdam, Buren, Gouda, Barendrecht, Albrandswaard, Ridderkerk, Alkmaar, Hoeksche Waard, Sud-West Fryslan, Fryske Marren
+
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe(Via OpenWoo.app)
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenWoo.app, Open Services | Berichten en Documenten, Waardepapieren)
+Zutphen (Via OpenWoo.app)
+Roosendaal (Via OpenWoo.app)
+Alkmaar (Via OpenCatalogi)
+Buren  (Via Open Services | Berichten en Documenten, Waardepapieren)
+Barendrecht (Via Open Services | Berichten en Documenten)
+Albrandswaard (Via Open Services | Berichten en Documenten)
+Ridderkerk (Via Open Services | Berichten en Documenten)
+Hoeksche Waard (Via Open Services | Berichten en Documenten)
+Sud-West Fryslan (Via Open Services | Berichten en Documenten)
+Fryske Marren (Via Open Services | Berichten en Documenten)
 
 
 ## 10 Welke leveranciers zijn betrokken?
