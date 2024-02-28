@@ -53,7 +53,6 @@ Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-
 Noordwijk (Via OpenWoo.app)
 Tubbergen (Via OpenWoo.app)
 Epe(Via OpenWoo.app)
@@ -69,7 +68,6 @@ Ridderkerk (Via Open Services | Berichten en Documenten)
 Hoeksche Waard (Via Open Services | Berichten en Documenten)
 Sud-West Fryslan (Via Open Services | Berichten en Documenten)
 Fryske Marren (Via Open Services | Berichten en Documenten)
-
 
 ## 10 Welke leveranciers zijn betrokken?
 
@@ -121,7 +119,7 @@ Door het bieden van gestandaardiseerde toegang tot overheidsdiensten, maakt Open
 
 ## 21 Geef een korte toelichting op jouw antwoord de vorige vraag
 
-Door het plaatsen van busnes logica in losse microserverices word de logica los getrokken van de data en ontstaat er een zuivere laag 4. Daarnaast word busnes logica ook deelbaar tussen applicaties. 
+Door het plaatsen van busnes logica in losse microserverices word de logica los getrokken van de data en ontstaat er een zuivere laag 4. Daarnaast word busnes logica ook deelbaar tussen applicaties.
 
 ## 22 In hoeverre draagt het bij aan regie op gegevens voor inwoners?
 
@@ -153,6 +151,8 @@ NL-GOV profiel voor cloud events
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-Microservices zijn een lastig concept om uit te leggen ana de gemiddelde po, daarnaast zien we dat ze toch weer snel worden mee ontwikkeld in andere applicaties waardoor er zowel dubbel wordt gebouwd als silo's ontstaan. 
+Microservices zijn een lastig concept om uit te leggen aan de gemiddelde po, daarnaast zien we dat ze toch weer snel worden mee ontwikkeld in andere applicaties waardoor er zowel dubbel wordt gebouwd, als silo's ontstaan.
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
+
+nee
