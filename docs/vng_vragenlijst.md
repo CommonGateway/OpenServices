@@ -17,7 +17,7 @@ Open Services
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
-Ja, Open Services is ontworpen om naadloos samen te werken met bestaande systemen, waardoor het een aanvullende laag biedt die de toegankelijkheid en interoperabiliteit tussen overheidsdiensten verbetert.
+Ja, Open Services is ontworpen om naadloos samen te werken met bestaande systemen, waardoor het een aanvullende laag biedt die de toegankelijkheid en interoperabiliteit tussen overheidsdiensten verbetert. Het is hierbij gericht op het ondersteunen van commonground initiatieven maar kan tijdens de transitie fase ook oude applicaties ondersteunen.
 
 ## 5 Indien een toepassing, pitch je product
 
@@ -73,11 +73,11 @@ Fryske Marren (Via Open Services | Berichten en Documenten)
 
 ## 10 Welke leveranciers zijn betrokken?
 
-- Conduction B.V.
-- Yard
-- Acato
-- Sim Groep
-- Xxllnc
+Conduction B.V (Via OpenWoo.app en  OpenCatalogi)
+Yard (Via OpenWoo.app)
+Acato (Via OpenWoo.app)
+Sim Groep (Via OpenWoo.app en  OpenCatalogi)
+Xxllnc (Via OpenWoo.app en Open Registers | Klanten)
 
 ## 11 Wat is de startdatum van het initiatief
 
@@ -121,7 +121,7 @@ Door het bieden van gestandaardiseerde toegang tot overheidsdiensten, maakt Open
 
 ## 21 Geef een korte toelichting op jouw antwoord de vorige vraag
 
-Open Services verhoogt de efficiëntie en toegankelijkheid van overheidsdiensten, wat leidt tot een snellere en meer gepersonaliseerde dienstverlening aan burgers.
+Door het plaatsen van busnes logica in losse microserverices word de logica los getrokken van de data en ontstaat er een zuivere laag 4. Daarnaast word busnes logica ook deelbaar tussen applicaties. 
 
 ## 22 In hoeverre draagt het bij aan regie op gegevens voor inwoners?
 
@@ -129,7 +129,7 @@ Open Services verhoogt de efficiëntie en toegankelijkheid van overheidsdiensten
 
 ## 23 Geef een korte toelichting op jouw antwoord bij de vorige vraag
 
-Hoewel Open Services primair gericht is op het verbeteren van de toegang tot overheidsdiensten, ondersteunt het ook een grotere transparantie en controle voor burgers over hun interacties met de overheid.
+Open Services creert busnes logica die geen data vasthoud waardoor er geen duplicaite optreed en de gegevens in laag 1/2 (data/api) blijven. Hierdoor onstaat er grip op data wat zich doorvertaald naar de inwoner.
 
 ## 24 Waar staat informatie over de planning? Voeg indien mogelijk de link toe
 
@@ -141,7 +141,11 @@ Hoewel Open Services primair gericht is op het verbeteren van de toegang tot ove
 
 ## 26 Welke API-standaarden zijn toegepast?
 
-API-standaarden gerelateerd aan het Common Ground principe en andere relevante overheidsstandaarden.
+Haal Centraal
+API-standaarden voor ZGW-werken
+API-standaarden voor klanten en klant interacties
+NL-API strategie
+NL-GOV profiel voor cloud events
 
 ## 27 In welke fase bevindt het initiatief zich?
 
@@ -149,6 +153,6 @@ API-standaarden gerelateerd aan het Common Ground principe en andere relevante o
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-Integratie met bestaande systemen en het waarborgen van de veiligheid en privacy van de gegevens waren uitdagingen.
+Microservices zijn een lastig concept om uit te leggen ana de gemiddelde po, daarnaast zien we dat ze toch weer snel worden mee ontwikkeld in andere applicaties waardoor er zowel dubbel wordt gebouwd als silo's ontstaan. 
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
