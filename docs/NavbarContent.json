@@ -24,21 +24,34 @@
     }
   },
   {
-    "label": "Handleidingen",
+    "label": "Documentatie",
     "current": {
-      "pathname": "/Handleidingen"
+      "pathname": "/Docs"
     },
     "subItems": [
       {
         "label": "Installatie",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Handleidingen/Installatie"
+          "pathname": "/Docs/Installatie"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Handleidingen",
+            "directoryName": "Docs",
             "fileName": "Installatie"
+          }
+        }
+      },
+      {
+        "label": "Kosten",
+        "type": "internalMarkdown",
+        "current": {
+          "pathname": "/Docs/Kosten"
+        },
+        "handleClick": {
+          "internalMarkdown": {
+            "directoryName": "Docs",
+            "fileName": "Kosten"
           }
         }
       },
@@ -46,11 +59,11 @@
         "label": "Architectuur",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Handleidingen/Architectuur"
+          "pathname": "/Docs/Architectuur"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Handleidingen",
+            "directoryName": "Docs",
             "fileName": "Architectuur"
           }
         }
@@ -59,38 +72,12 @@
         "label": "Functionaliteit",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Handleidingen/Features"
+          "pathname": "/Docs/Features"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Handleidingen",
+            "directoryName": "Docs",
             "fileName": "Features"
-          }
-        }
-      },
-      {
-        "label": "Roadmap",
-        "type": "internalMarkdown",
-        "current": {
-          "pathname": "/Handleidingen/Features"
-        },
-        "handleClick": {
-          "internalMarkdown": {
-            "directoryName": "Handleidingen",
-            "fileName": "Features"
-          }
-        }
-      },
-      {
-        "label": "Tutorial",
-        "type": "internalMarkdown",
-        "current": {
-          "pathname": "/Handleidingen/Testen"
-        },
-        "handleClick": {
-          "internalMarkdown": {
-            "directoryName": "Handleidingen",
-            "fileName": "Testen"
           }
         }
       }
