@@ -26,31 +26,31 @@
   {
     "label": "Documentatie",
     "current": {
-      "pathname": "/Documentatie"
+      "pathname": "/Docs"
     },
     "subItems": [
       {
         "label": "Installatie",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Documentatie/Installatie"
+          "pathname": "/Docs/Installatie"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Documentatie",
+            "directoryName": "Docs",
             "fileName": "Installatie"
           }
         }
       },
       {
-        "label": "IKosten",
+        "label": "Kosten",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Documentatie/Kosten"
+          "pathname": "/Docs/Kosten"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Documentatie",
+            "directoryName": "Docs",
             "fileName": "Kosten"
           }
         }
@@ -59,11 +59,11 @@
         "label": "Architectuur",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Documentatie/Architectuur"
+          "pathname": "/Docs/Architectuur"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Documentatie",
+            "directoryName": "Docs",
             "fileName": "Architectuur"
           }
         }
@@ -72,11 +72,11 @@
         "label": "Functionaliteit",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Documenten/Features"
+          "pathname": "/Docs/Features"
         },
         "handleClick": {
           "internalMarkdown": {
-            "directoryName": "Documenten",
+            "directoryName": "Docs",
             "fileName": "Features"
           }
         }
