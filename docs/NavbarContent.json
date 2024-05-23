@@ -14,11 +14,11 @@
     "label": "Services",
     "type": "internalMarkdown",
     "current": {
-      "pathname": "/"
+      "pathname": "/Docs"
     },
     "handleClick": {
       "internalMarkdown": {
-        "directoryName": "/",
+        "directoryName": "/Docs",
         "fileName": "CONTRIBUTING"
       }
     }
